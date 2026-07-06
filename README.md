@@ -98,9 +98,9 @@ The deployment includes:
 
 **CloudFront URL**
 
-```
+
 [Live Demo](https://d2kbw1rhqp2mjw.cloudfront.net)
-```
+
 **Static-website URL**
 ---
 
