@@ -121,16 +121,6 @@ Through this project, I gained practical experience with:
 
 ---
 
-## Cleanup
-
-After project completion:
-
-- Delete the CloudFront distribution
-- Empty and delete the S3 bucket
-- Verify no AWS resources remain active
-
----
-
 ## Author
 
 **Apoorva Nimmala**
