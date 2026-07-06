@@ -1,5 +1,5 @@
 # AWS-Udacity-Project
-Static website deployed on AWS using Amazon S3 and CloudFront as part of the Udacity Cloud Developer Nanodegree.
+Static website deployed on AWS using Amazon S3 ,CloudFront and IAM as part of the Udacity Cloud Developer Nanodegree.
 # Deploy Static Website on AWS
 
 This project demonstrates how to deploy a static website on Amazon Web Services (AWS) using Amazon S3 and Amazon CloudFront. The website is hosted in an S3 bucket configured for static website hosting and distributed globally through CloudFront for improved performance and low-latency content delivery.
